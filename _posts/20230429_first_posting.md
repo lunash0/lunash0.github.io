@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first posting for test
+title: "first posting for test"
 tags:
   - test
   - etc
